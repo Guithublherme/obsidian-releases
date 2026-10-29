@@ -67226,5 +67226,13 @@
     "author": "Rafael Ordaz",
     "description": "Moves notes to folders by matching their tag or title against your rules, automatically on create, edit, or rename, or manually. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "rordaz/obsidian-auto-note-mover"
+  },
+
+  {
+    "id": "pdf-2-md",
+    "name": "PDF2md ",
+    "author": "GuilhermeMattos",
+    "description": "Converts a PDF into chapters and sections, split into multiple .md files with links between them.",
+    "repo": "Guithublherme/PluginsObsidian"
   }
 ]
